@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "GRJKitGG"
-  s.version      = "0.0.1"
+  s.version      = “0.0.2”
   s.summary      = "A short description of GRJKitGG."
 
   s.homepage     = "http://github.com/Jack424/GRJKitGG"
